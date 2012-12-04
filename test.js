@@ -9,6 +9,7 @@ var a = 1,
     };
 alert(a);
 
+hhhhhhhhhhhhhhhhhhhhhhhhhhh
 function a(x) {
     return x * 2;
 }
@@ -31,3 +32,7 @@ kkkkkkkkkk
 llllllllllllllllllllllllll
 jjjjjjjjjjjjjjjjjj
 xxxxxxxxxxxxxxxxxxx
+news
+llllllllllllllllllll
+
+kkkkkkkkkkkkkkkkkkkkk
